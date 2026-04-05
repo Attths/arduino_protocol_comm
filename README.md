@@ -35,7 +35,7 @@ void loop() {
 
 <p>Berikutnya compile dan upload program ke dalam Arduino board. Perhatikan hasil yang terjadi, apakah sesuai dengan spesifikasi atau tidak.</p>
 
-https://github.com/user-attachments/assets/786cdcb5-778b-4eb1-8dda-49d94c08792c
+https://github.com/user-attachments/assets/d489cc42-f489-404b-93de-cca64eafb324
 
 <h2></h2>
 
